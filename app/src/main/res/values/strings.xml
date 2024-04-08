@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Mybanddatabase</string>
+    <string name="details" tools:ignore="ExtraTranslation">Details</string>
+
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>The Gorillas</item>
+        <item>Stick Figures</item>
+        <item>The Dirty Heads</item>
+        <item>Linkin Park</item>
+        <item>Daddy Yankee</item>
+        <item>Pitbull</item>
+        <item>Ozuna</item>
+        <item>Bad Bunny</item>
+        <item>Green Day</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>No Description</item>
+        <item>No Description</item>
+        <item>No Description</item>
+        <item>No Description</item>
+        <item>No Description</item>
+        <item>No Description</item>
+        <item>No Description</item>
+        <item>No Description</item>
+        <item>No Description</item>
+
+    </string-array>
+</resources>
